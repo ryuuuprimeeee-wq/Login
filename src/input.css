@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@theme {
+    --color-custom-biru1: #0f4c75;
+    --color-custom-biru2: #3282B8;
+}
