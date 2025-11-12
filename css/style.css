@@ -544,6 +544,12 @@
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }
+  .bg-raja-ampat {
+  background-image: url("../images/raja-ampat.png");
+  background-size: cover;
+  background-position: center;
+  }
+
 }
 @property --tw-translate-x {
   syntax: "*";
